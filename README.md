@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Klim 👋</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/8QZQZ4T.png" width="400" alt="developer illustration"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
 </p>
 
 ---
 
 ## 🚀 Tech Stack
 
-### **Frontend**
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -16,17 +16,17 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
-### **Backend**
+### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-### **Database**
+### Database
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### **Tools & Other**
+### Tools & Other
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## 🎧 Hobbies
+## 💡 Hobbies
 
 <p>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
@@ -51,12 +51,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klimentiyvervekin&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klimentiyvervekin&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=klimentiyvervekin&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=klimentiyvervekin&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimentiyvervekin&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimentiyvervekin&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
@@ -69,4 +69,4 @@
 
 ---
 
-<p align="center">✨ Thanks for checking out my profile! ✨</
+<p align="center">✨ Thanks for checking out my profile! ✨</p>
