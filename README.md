@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Klim 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZxbnFzZHBic2ZrcHFhMzRzbWgyN2RmMHRmcWJuM3I2OGR4ZmI5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NgurY1o4z080Jfoyzw/giphy.gif" width="200"/>
+  <img src="https://i.imgur.com/8QZQZ4T.png" width="400" alt="developer illustration"/>
 </p>
 
 ---
@@ -19,7 +19,6 @@
 ### **Backend**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 ### **Database**
@@ -31,7 +30,20 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+## 🎧 Hobbies
+
+<p>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Substance%20Painter-FF6F00?style=for-the-badge&logo=adobe&logoColor=white"/>
 </p>
 
 ---
@@ -57,26 +69,4 @@
 
 ---
 
-## 🎧 About Me
-
-- Full-stack developer in training  
-- Focused on clean, efficient web apps  
-- Interested in combining creativity, design, and tech  
-- Into music production, fitness, UFC, and coding  
-
----
-
-## 🔗 Find me online
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/klimentiy-vervekin-1610921a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://soundcloud.com/">
-    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+<p align="center">✨ Thanks for checking out my profile! ✨</
