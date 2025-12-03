@@ -51,12 +51,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klimentiyvervekin&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com?user=klimentiyvervekin&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimentiyvervekin&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://img.shields.io/github/followers/klimentiyvervekin?style=for-the-badge&label=Followers" />
+  <img src="https://img.shields.io/github/stars/klimentiyvervekin?style=for-the-badge&label=Stars" />
+  <img src="https://komarev.com/ghpvc/?username=klimentiyvervekin&style=for-the-badge&label=Profile+views" />
 </p>
 
 ---
