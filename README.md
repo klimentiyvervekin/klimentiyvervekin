@@ -1,28 +1,82 @@
-# 👋 Hi, I’m Klim
+<h1 align="center">Hi, I'm Klim 👋</h1>
 
-I’m 30 years old and currently taking a **Web Development** course at [neue fische](https://www.neuefische.de/) with a focus on **frontend development**.  
-This repository is where I share my progress, projects, and learning journey.
-
-## 🎨 Background
-
-My background is in art — I hold a **Bachelor’s degree in Fine Arts** and also completed an *Ausbildung* as a **Gestaltungstechnischer Assistent**.  
-Now I want to merge my artistic side with the technical world of programming, bringing creative ideas to life and building useful things for the world.
-
-## 🌱 Goals
-
-- Grow as a frontend developer  
-- Combine art and code  
-- Work on creative, meaningful projects  
-
-## 🎧 Hobbies
-
-- Producing music (especially **techno**)  
-- Playing video games  
-- Sports & fitness  
-- Watching UFC  
-
-🎵 Here’s one of my tracks on SoundCloud: [Listen here](https://soundcloud.com/user-541189963/cyberwerk-crystal-dreams-demo)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZxbnFzZHBic2ZrcHFhMzRzbWgyN2RmMHRmcWJuM3I2OGR4ZmI5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NgurY1o4z080Jfoyzw/giphy.gif" width="200"/>
+</p>
 
 ---
 
-Thanks for stopping by and checking out my work!
+## 🚀 Tech Stack
+
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+### **Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### **Database**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### **Tools & Other**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=klimentiyvervekin&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klimentiyvervekin&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimentiyvervekin&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=klimentiyvervekin&theme=radical&no-frame=true&no-bg=false&margin-w=10"/>
+</p>
+
+---
+
+## 🎧 About Me
+
+- Full-stack developer in training  
+- Focused on clean, efficient web apps  
+- Interested in combining creativity, design, and tech  
+- Into music production, fitness, UFC, and coding  
+
+---
+
+## 🔗 Find me online
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/klimentiy-vervekin-1610921a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://soundcloud.com/">
+    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
