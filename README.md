@@ -1,18 +1,18 @@
-## Hi, I’m Klim - Junior Frontend Developer based in Germany (NRW)
+## Hi, I’m Klim – Junior Frontend Developer based in Germany (NRW)
 
-I build clean and maintainable frontend applications using React and Next.js.  
+I build clean, maintainable frontend applications using React and Next.js.  
 I have hands-on experience working with authentication, databases, and basic backend logic.  
-My projects are small but complete: they are deployed, documented, and built to resemble real-world use cases.
+My projects are focused but complete: deployed, documented, and built to resemble real-world use cases beyond simple demos.
 
-I am currently looking for a Junior Frontend Developer position, with the opportunity to grow into full-stack tasks over time.
+I am currently seeking a Junior Frontend Developer position, with the opportunity to gradually grow into full-stack responsibilities.
 
 ---
 
 ## Focus Area
 
 - Frontend development with React and Next.js  
-- Building structured and user-focused interfaces  
-- Integrating frontend applications with APIs and backend services  
+- Building structured, user-focused, and maintainable interfaces  
+- Integrating frontend applications with REST APIs and backend services  
 
 ---
 
@@ -25,11 +25,10 @@ HTML, CSS, JavaScript (ES6+), React, Next.js
 MongoDB, REST APIs, backend fundamentals
 
 **Authentication**  
-User authentication and authorization flows
+OAuth and session-based authentication & authorization
 
 **Tools & Workflow**  
-Git, GitHub, Bash, Terminal, Vercel  
-AI tools (e.g. ChatGPT) for research, debugging, and learning
+Git, GitHub, Bash, Terminal, Vercel
 
 ---
 
@@ -37,7 +36,7 @@ AI tools (e.g. ChatGPT) for research, debugging, and learning
 
 ### GameIMDB
 A social web application for video game discovery and reviews.  
-Includes authentication, database integration, and social features around game-related content.  
+Features user authentication, database persistence, and social interactions around game-related content.
 
 [Live Demo](https://game-imdb.vercel.app) ·  
 [Repository](https://github.com/klimentiyvervekin/game-imdb)
@@ -46,4 +45,4 @@ Includes authentication, database integration, and social features around game-r
 
 ## Location
 
-Germany, NRW (Bonn / Cologne)
+Germany (NRW – Bonn / Cologne)
