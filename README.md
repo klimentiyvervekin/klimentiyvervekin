@@ -1,4 +1,4 @@
-## Hi, I’m Klim – Junior Frontend Developer based in Germany (NRW)
+## Hi, I’m Klim – Frontend Developer based in Germany (NRW)
 
 I build clean, maintainable frontend applications using React and Next.js.  
 I have hands-on experience working with authentication, databases, and basic backend logic.  
